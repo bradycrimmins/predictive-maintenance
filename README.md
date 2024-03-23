@@ -47,5 +47,3 @@ The LSTM model is designed with a single LSTM layer followed by a dense output l
 - The success of the LSTM model highly depends on the quality and quantity of the data. Consider collecting a diverse set of sensor readings over a significant period to improve model accuracy.
 - Adjust the `sequence_length` parameter based on the frequency of sensor readings and the nature of the equipment to capture relevant temporal patterns.
 - Experiment with different LSTM architectures, adding more layers or units, to find the optimal model configuration for your specific use case.
-
-This README provides an overview of implementing predictive maintenance using LSTM neural networks. By proactively predicting equipment failures, businesses can significantly reduce downtime and maintenance costs, ensuring smoother operations within the supply chain.
